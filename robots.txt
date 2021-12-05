@@ -1,3 +1,4 @@
 User-agent: *
-Sitemap: https://kdh92417.github.io/sitemap/sitemap-index.xml
+Allow: /
+Sitemap: https://kdh92417.github.io/sitemap-pages.xml
 Host: https://kdh92417.github.io
